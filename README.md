@@ -2,7 +2,7 @@
 
 ## Because reading line by line is easier
 
-This project is part of the first circle of projects of the 42 cursus. The goal is to create a function which return the next line of a file based on a file descriptor. It also make me learn about static variables(variables that are declared only one time and keep their value between two calls of the same function). You will find the subject of the project into the repository. My grade : 112/100 
+This project is part of the first circle of projects of the 42 common core. The goal is to create a function which return the next line of a file based on a file descriptor. It also make me learn about static variables(variables that are declared only one time and keep their value between two calls of the same function). You will find the subject of the project into the repository. My grade : 112/100 
 
 ## How to use it
 
