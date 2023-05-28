@@ -6,11 +6,11 @@
 /*   By: averdon <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/05 14:03:42 by averdon           #+#    #+#             */
-/*   Updated: 2022/11/28 18:26:34 by averdon          ###   ########.fr       */
+/*   Updated: 2023/05/28 13:36:41 by averdon          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include"get_next_line.h"
+#include "../includes/get_next_line.h"
 
 static char	*empty_buffer(char *buffer, char *line)
 {

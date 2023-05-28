@@ -6,11 +6,11 @@
 /*   By: averdon <marvin@42.fr>                     +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/05 14:03:55 by averdon           #+#    #+#             */
-/*   Updated: 2022/10/26 16:45:02 by averdon          ###   ########.fr       */
+/*   Updated: 2023/05/28 13:37:07 by averdon          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include"get_next_line.h"
+#include "../includes/get_next_line.h"
 
 int	ft_strlen(const char *str)
 {
